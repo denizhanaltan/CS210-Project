@@ -2,16 +2,16 @@
 ## About the Project 
 
 Apple Health Data Analysis with Wether Forecast aims to analyze how different weather conditions affect my activity level throughout a day.
-## Motivation 
+## Motivation 💡
 
 The main motivation for undertaking this project was from my curiosity about the relations
 between environmental factors and human activity patterns.
 
-## Data Source 
+## Data Source 🏠
 
 The data for this project was obtained from Apple Health and https://openweathermap.org/.
 
-## Data Analysis Techniques 
+## Data Analysis Techniques 💻
 
 -Extracting the data
 -Preprocessing to fill missing data and format accordingly
