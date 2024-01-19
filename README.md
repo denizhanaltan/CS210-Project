@@ -7,7 +7,7 @@ Apple Health Data Analysis with Wether Forecast aims to analyze how different we
 The main motivation for undertaking this project was from my curiosity about the relations
 between environmental factors and human activity patterns.
 
-## Data Source 🗃
+## Data Source 
 
 The data for this project was obtained from Apple Health and https://openweathermap.org/.
 
